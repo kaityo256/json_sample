@@ -1,0 +1,8 @@
+{
+    "network_type": "all",
+    "system_size_x": 10,
+    "system_size_y": 12,
+    "number_of_trials": 100,
+    "number_of_generations": 200,
+    "seed": 1
+}
